@@ -22,6 +22,7 @@ Local weather forecasts in Arctic regions face challenges due to sparse observat
 
 ## Citation
 
+```bibtex
 @article{ahajjam2024predictive,
   title={Predictive Analytics of Air Temperature in Alaskan Permafrost Terrain Leveraging Two-Level Signal Decomposition and Deep Learning},
   author={Ahajjam, Aymane and Putkonen, Jaakko and Chukwuemeka, Emmanuel and Chance, Robert and Pasch, Timothy J},
