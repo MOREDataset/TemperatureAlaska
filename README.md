@@ -2,14 +2,12 @@
 
 This repository contains the implementation and results of the paper introducing a novel VMD-WT-InceptionTime model for short-term air temperature forecasting in Alaska.
 
----
 
 ## Abstract
 
 Local weather forecasts in Arctic regions face challenges due to sparse observation stations and high computational costs. Accurate temperature predictions are essential for managing winter hazards and spring flood risks. This study proposes a hybrid **Variational Mode Decomposition (VMD)-Wavelet Transform (WT)-InceptionTime** model to address these challenges. The model is validated using over 35 years of data from three Alaskan locations and evaluated against various state-of-the-art baselines.
 ![Multi-horizon forecasting of the temperature using VMD-WT-InceptionTime.](VMD-WT-InceptionTimev2.jpg "Multi-horizon forecasting of the temperature using VMD-WT-InceptionTime.")
 
----
 
 ## Key Contributions
 
@@ -18,7 +16,6 @@ Local weather forecasts in Arctic regions face challenges due to sparse observat
 - **Data Utilization**: Processes 35+ years of historical temperature data from three Alaskan sites.
 - **Optimal Decomposition Analysis**: Determines the best decomposition levels for temperature forecasting.
 
----
 
 ## Citation
 
